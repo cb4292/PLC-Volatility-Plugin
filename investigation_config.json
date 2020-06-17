@@ -1,0 +1,1 @@
+{"firmware": "OpenPLC", "protocol": "ModbusTCP", "targets": ["10.10.10.4", "10.10.10.5"]}
